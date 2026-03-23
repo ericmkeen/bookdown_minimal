@@ -19,7 +19,7 @@ install.packages("bookdown")
 
 **5.** In the top right pane (the one that has "*Environment*" as one of the tabs), look to see if there is now a tab named "*Build*".  
 
-**6.** On that "*Build*"" tab, click on the "*Build Book*" button, and wait to see if a new window pops up with your book.  
+**6.** On that "*Build*"" tab, click on the "*Build Book*" button, and wait to see if a new window pops up with your book.  (It should look like [this](https://ericmkeen.github.io/bookdown_minimal/). 
 
 **7.** If so, now look in the bottom-right pane (the one that typically shows plots), under the "Files" tab. Click on the `index.Rmd` file. 
 
