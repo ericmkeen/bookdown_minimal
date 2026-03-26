@@ -35,7 +35,7 @@ install.packages("bookdown")
 
 ### Setup your own `bookdown` project on your own computer
 
-**9.** Go back to Github and create a new public repository, just as you have before.  
+**9.** Go back to Github and create a new public repository, just as you have before.  Call it "data_story_3".
 
 **10.** Clone it to to your local `repos` folder. (Make sure to navigate out of the `bookdown_minimal` folder in Terminal before using the `git clone` command!)  
 
