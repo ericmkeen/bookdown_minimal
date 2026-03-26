@@ -1,5 +1,7 @@
 This is a minimal example of a book based on R Markdown and the `R` package **`bookdown`**, geared specifically for students in ESCI 222 (Sewanee).  
 
+Ezell will explain what bookdown is and how it works in class. The goal now is to setup the software on your machine and make sure it works.  
+
 &nbsp;  
 
 ### Test that `bookdown` works on your own computer
