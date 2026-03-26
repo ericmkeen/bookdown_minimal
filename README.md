@@ -19,30 +19,33 @@ install.packages("bookdown")
 
 **5.** In the top right pane (the one that has "*Environment*" as one of the tabs), look to see if there is now a tab named "*Build*".  
 
-**6.** On that "*Build*"" tab, click on the "*Build Book*" button, and wait to see if a new window pops up with your book.  (It should look like [this](https://ericmkeen.github.io/bookdown_minimal/). 
+**6.** On that "*Build*"" tab, click on the "*Build Book*" button, and wait to see if a new window pops up with your book.  (It should look like [this](https://ericmkeen.github.io/bookdown_minimal/).)  
 
-**7.** If so, now look in the bottom-right pane (the one that typically shows plots), under the "Files" tab. Click on the `index.Rmd` file. 
+*If so...*  
+
+**7.** Now look in the bottom-right pane (the one that typically shows plots), under the "Files" tab. Click on the `index.Rmd` file. 
 
 **8.** In the `YAML` at the top of `index.Rmd`, customize the title, author and description of your book.  Re-build to see if the changes were applied.  
 
-**9.** If that all worked, then... 
+
+*If that all worked, then...* 
 
 
 &nbsp;  
 
 ### Setup your own `bookdown` project on your own computer
 
-**10** Go back to Github and create your own repo for developing your own `bookdown` project.   
+**9.** Go back to Github and create your own repo for developing your own `bookdown` project.   
 
-**11** Clone it to to your local `repos` folder.  
+**10.** Clone it to to your local `repos` folder.  
 
-**12** Now copy and paste all the files from this `bookdown-minimal` repo into that new empty repo.  
+**12.** Now copy and paste all the files from this `bookdown-minimal` repo into that new empty repo.  
 
-**13** Close the `RStudio` window of the `bookdown-minimal` project.
+**13.** Close the `RStudio` window of the `bookdown-minimal` project.
  
-**14** In your new repo, change the `.Rproj` filename from `bookdown-minimal` to your own preferred filename.  
+**14.** In your new repo, change the `.Rproj` filename from `bookdown-minimal` to your own preferred filename.  
 
-**15** Open up that `.Rproj` file and start developing your book! 
+**15.** Open up that `.Rproj` file and start developing your book! 
 
 
 &nbsp;  
