@@ -35,9 +35,9 @@ install.packages("bookdown")
 
 ### Setup your own `bookdown` project on your own computer
 
-**9.** Go back to Github and create your own repo for developing your own `bookdown` project.   
+**9.** Go back to Github and create a new public repository, just as you have before.  
 
-**10.** Clone it to to your local `repos` folder.  
+**10.** Clone it to to your local `repos` folder. (Make sure to navigate out of the `bookdown_minimal` folder in Terminal before using the `git clone` command!)  
 
 **12.** Now copy and paste all the files from this `bookdown-minimal` repo into that new empty repo.  
 
