@@ -1,4 +1,4 @@
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown), geared specifically for students in ESCI 222 (Sewanee).  
+This is a minimal example of a book based on R Markdown and the `R` package **`bookdown`**, geared specifically for students in ESCI 222 (Sewanee).  
 
 &nbsp;  
 
