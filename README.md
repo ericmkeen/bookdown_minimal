@@ -57,13 +57,13 @@ install.packages("bookdown")
 
 *(a)* Each chapter should occur in its own `Rmd` file; 
 
-*(b)* The top line in each `Rmd` should be the chapter tile (using a single "#" at the start of the line.  
+*(b)* The top line in each `Rmd` file should be the chapter title (using a single "#" at the start of the line).  
 
-*(c)* The chapters will be appear in the alphabetical order of their filenames, so include a number at the start of each `Rmd` filename to control their sequence. 
+*(c)* The chapters will be appear in the alphabetical order of their filenames, so include a number at the start of each `Rmd` filename to control their sequence. Rename files as needed to get the order you want. 
 
-*(d)* As you work on each `Rmd` individually, you can render them to polish how they look using the "*Knit*" button, as you would any `Rmd` project.  
+*(d)* As you work on each `Rmd` individually, you can render them using the "*Knit*" button, as you would any `Rmd` project, to polish how each individual chapter looks.  
 
-*(e)* But when you are ready to "render" the entire book into a single product, you should click the "*Build Book*" button in the top right pane. 
+*(e)* But when you are ready to build the entire book into a single product (i.e., a single website), you should click the "*Build Book*" button in the top right pane.  
 
 
 &nbsp;  
@@ -73,8 +73,9 @@ install.packages("bookdown")
 Do this exactly as you would a regular `Rmd`-based repo that you have already done several times: 
 
 - In *Terminal*, `add`-`commit`-`push` your changes to Github.  
-- On *Github*, set up the Github Pages website for your project.  
-- Put a link to your Github Pages site in your repo's README file.  
+- On *Github*, set up the Github Pages website for your project. (The rendered book is saved inside the `docs` folder of your repo, just as we have been doing for previous data stories.) 
+- Put a link to your Github Pages site in your repo's README file.
+- If you update that README on Github, make sure to `git pull` on your local machine so that the online and local versions of your repo are synced.  
 
 
 &nbsp;  
